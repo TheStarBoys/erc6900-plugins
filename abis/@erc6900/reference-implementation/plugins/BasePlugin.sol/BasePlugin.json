@@ -1,0 +1,15 @@
+[
+  "error NotImplemented()",
+  "function onHookApply(address,tuple(uint8,bool,uint8),bytes)",
+  "function onHookUnapply(address,tuple(uint8,bool,uint8),bytes)",
+  "function onInstall(bytes)",
+  "function onUninstall(bytes)",
+  "function pluginManifest() pure returns (tuple(string,string,string,bytes4[],bytes4[],tuple(bytes4,string[])[],bytes4[],bool,tuple(address,bool,bytes4[])[],tuple(bytes4,tuple(uint8,uint8,uint256))[],tuple(bytes4,tuple(uint8,uint8,uint256))[],tuple(bytes4,tuple(uint8,uint8,uint256))[],tuple(bytes4,tuple(uint8,uint8,uint256))[],tuple(bytes4,tuple(uint8,uint8,uint256),tuple(uint8,uint8,uint256))[],tuple(bytes4,tuple(uint8,uint8,uint256),tuple(uint8,uint8,uint256))[]))",
+  "function postExecutionHook(uint8,bytes)",
+  "function preExecutionHook(uint8,address,uint256,bytes) returns (bytes)",
+  "function preRuntimeValidationHook(uint8,address,uint256,bytes)",
+  "function preUserOpValidationHook(uint8,tuple(address,uint256,bytes,bytes,uint256,uint256,uint256,uint256,uint256,bytes,bytes),bytes32) returns (uint256)",
+  "function runtimeValidationFunction(uint8,address,uint256,bytes)",
+  "function supportsInterface(bytes4) view returns (bool)",
+  "function userOpValidationFunction(uint8,tuple(address,uint256,bytes,bytes,uint256,uint256,uint256,uint256,uint256,bytes,bytes),bytes32) returns (uint256)"
+]

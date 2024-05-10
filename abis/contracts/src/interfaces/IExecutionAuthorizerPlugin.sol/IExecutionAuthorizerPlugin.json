@@ -1,0 +1,4 @@
+[
+  "error NotAuthorized()",
+  "function setPermitCall(address,bytes4,bool)"
+]

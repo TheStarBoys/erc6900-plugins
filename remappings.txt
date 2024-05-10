@@ -1,0 +1,7 @@
+hardhat/=node_modules/hardhat/
+xdeployer/=node_modules/xdeployer/
+forge-std/=contracts/lib/forge-std/src/
+@openzeppelin/=node_modules/@openzeppelin/
+ds-test/=contracts/lib/forge-std/lib/ds-test/src/
+@erc6900/reference-implementation/=contracts/lib/reference-implementation/src/
+@eth-infinitism/account-abstraction/=contracts/lib/account-abstraction/contracts/

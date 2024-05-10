@@ -1,0 +1,11 @@
+[
+  "error NotAuthorized()",
+  "event RoleAdminChanged(address indexed,bytes32 indexed,bytes32,bytes32)",
+  "event RoleGranted(address indexed,bytes32 indexed,address indexed)",
+  "event RoleRevoked(address indexed,bytes32 indexed,address indexed)",
+  "function canAccess(address,address,bytes4) view returns (bool)",
+  "function canSignMessages(address) view returns (bool)",
+  "function grantRole(bytes32,address)",
+  "function hasRole(bytes32,address) view returns (bool)",
+  "function revokeRole(bytes32,address)"
+]

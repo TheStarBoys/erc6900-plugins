@@ -1,0 +1,6 @@
+[
+  "event PluginInstalled(address indexed,bytes32)",
+  "event PluginUninstalled(address indexed,bytes32,bool)",
+  "function installPlugin(address,bytes32,bytes,bytes21[],tuple(address,bytes4,tuple(uint8,bool,uint8),bytes)[])",
+  "function uninstallPlugin(address,bytes,bytes,bytes[])"
+]

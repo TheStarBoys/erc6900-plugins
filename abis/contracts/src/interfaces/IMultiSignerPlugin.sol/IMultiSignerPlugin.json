@@ -1,0 +1,13 @@
+[
+  "error NotAllowedDuringRecovery()",
+  "error NotAuthorized()",
+  "event OwnershipTransferred(address indexed,address indexed,address indexed)",
+  "function owner() view returns (address)",
+  "function ownerOf(address) view returns (address)",
+  "function recoveryAddress() view returns (address)",
+  "function setRecoveryAddress(address)",
+  "function setSigner(address,bool)",
+  "function signers(uint256) view returns (address)",
+  "function signersLength() view returns (uint256)",
+  "function transferOwnership(address)"
+]
